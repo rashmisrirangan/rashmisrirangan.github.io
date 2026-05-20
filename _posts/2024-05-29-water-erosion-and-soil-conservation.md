@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Water Erosion and Soil Conservation"
-date: 2026-04-01
+date: 2024-05-29
 categories: [environment, soil]
 tags: [water erosion, soil conservation, environmental science, ehs]
 ---
