@@ -4,7 +4,7 @@ I am Rashmi Srirangan, an EHS (Environment, Health and Safety) specialist in the
 
 I currently work at Endress
 
-Outside of EHS, I also enjoy photography and hiking.
+Outside of EHS, I also enjoy photography and hiking..
 
 You can reach me on https://www.linkedin.com/in/rashmi-sri.
 
