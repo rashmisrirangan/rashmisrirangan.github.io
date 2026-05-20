@@ -1,5 +1,3 @@
-/// {% include figure.html image="/assets/AjayJacket.JPG" %}
-
 (Last Updated: Apr 2026)
 
 I am Rashmi Srirangan, an EHS (Environment, Health and Safety) specialist in the Ann Arbor, Michigan area. 
