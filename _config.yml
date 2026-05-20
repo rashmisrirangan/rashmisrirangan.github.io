@@ -1,1 +1,19 @@
+title: Rashmi Srirangan
+description: >-
+  EHS (Environment, Health and Safety) specialist writing about environmental
+  science, occupational health, and safety practices.
+author: Rashmi Srirangan
+email: rashmi@thomasthoughts.com
+url: "https://rashmisrirangan.github.io"
+baseurl: ""
+
 remote_theme: jekyll/minima
+
+minima:
+  skin: classic
+  header_pages:
+    - about.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
