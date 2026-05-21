@@ -138,30 +138,30 @@ Regardless of the effectiveness of remediation techniques, prevention should alw
 
 ## References ##
 
-1. Akinnawo, S. O. (2023). Eutrophication: Causes, consequences, physical, chemical and biological techniques for mitigation strategies. Environmental Challenges, 12(100733), 100733. https://doi.org/10.1016/j.envc.2023.100733
+1. Akinnawo, S. O. (2023). Eutrophication: Causes, consequences, physical, chemical and biological techniques for mitigation strategies. Environmental Challenges, 12(100733), 100733. <https://doi.org/10.1016/j.envc.2023.100733>
 
-1. Beck, N. G., Conley, G., Kanner, L., & Mathias, M. (2017). An urban runoff model designed to inform stormwater management decisions. Journal of Environmental Management, 193, 257–269. https://doi.org/10.1016/j.jenvman.2017.02.007
+1. Beck, N. G., Conley, G., Kanner, L., & Mathias, M. (2017). An urban runoff model designed to inform stormwater management decisions. Journal of Environmental Management, 193, 257–269. <https://doi.org/10.1016/j.jenvman.2017.02.007>
 
 1. Blanco, H., & Lal, R. (2010). Principles of soil conservation and management (2008th ed.). Springer.
 
-1. Campbell, P. C., Bash, J. O., Nolte, C. G., Spero, T. L., Cooter, E. J., Hinson, K., & Linker, L. C. (2019). Projections of atmospheric nitrogen deposition to the Chesapeake Bay Watershed. Journal of Geophysical Research. Biogeosciences, 124(11), 3307–3326. https://doi.org/10.1029/2019jg005203
+1. Campbell, P. C., Bash, J. O., Nolte, C. G., Spero, T. L., Cooter, E. J., Hinson, K., & Linker, L. C. (2019). Projections of atmospheric nitrogen deposition to the Chesapeake Bay Watershed. Journal of Geophysical Research. Biogeosciences, 124(11), 3307–3326. <https://doi.org/10.1029/2019jg005203>
 
-1. Eutrophication of terrestrial ecosystems due to air pollution. (2018, February 22). European Environment Agency. https://www.eea.europa.eu/airs/2018/natural-capital/eutrophication-of-terrestrial-ecosystems
+1. Eutrophication of terrestrial ecosystems due to air pollution. (2018, February 22). European Environment Agency. <https://www.eea.europa.eu/airs/2018/natural-capital/eutrophication-of-terrestrial-ecosystems>
 
-1. Green Infrastructure benefits of infiltration practices — Minnesota Stormwater Manual. (n.d.). State.Mn.Us. Retrieved June 18, 2024, from https://stormwater.pca.state.mn.us/index.php?title=Green_Infrastructure_benefits_of_infiltration_practices
+1. Green Infrastructure benefits of infiltration practices — Minnesota Stormwater Manual. (n.d.). State.Mn.Us. Retrieved June 18, 2024, from <https://stormwater.pca.state.mn.us/index.php?title=Green_Infrastructure_benefits_of_infiltration_practices>
 
-1. Han, J., Shi, J., Zeng, L., Xu, J., & Wu, L. (2015). Effects of nitrogen fertilization on the acidity and salinity of greenhouse soils. Environmental Science and Pollution Research International, 22(4), 2976–2986. https://doi.org/10.1007/s11356-014-3542-z
+1. Han, J., Shi, J., Zeng, L., Xu, J., & Wu, L. (2015). Effects of nitrogen fertilization on the acidity and salinity of greenhouse soils. Environmental Science and Pollution Research International, 22(4), 2976–2986. <https://doi.org/10.1007/s11356-014-3542-z>
 
-1. Liu, B., Gai, S., Lan, Y., Cheng, K., & Yang, F. (2022). Metal-based adsorbents for water eutrophication remediation: A review of performances and mechanisms. Environmental Research, 212(113353), 113353. https://doi.org/10.1016/j.envres.2022.113353
+1. Liu, B., Gai, S., Lan, Y., Cheng, K., & Yang, F. (2022). Metal-based adsorbents for water eutrophication remediation: A review of performances and mechanisms. Environmental Research, 212(113353), 113353. <https://doi.org/10.1016/j.envres.2022.113353>
 
-1. Pesticides. (n.d.). Usgs.gov. Retrieved June 10, 2024, from https://www.usgs.gov/centers/ohio-kentucky-indiana-water-science-center/science/pesticides
+1. Pesticides. (n.d.). Usgs.gov. Retrieved June 10, 2024, from <https://www.usgs.gov/centers/ohio-kentucky-indiana-water-science-center/science/pesticides>
 
-1. Us Epa, O. W. (2013a). Sources and solutions: Wastewater. https://www.epa.gov/nutrientpollution/sources-and-solutions-wastewater
+1. Us Epa, O. W. (2013a). Sources and solutions: Wastewater. <https://www.epa.gov/nutrientpollution/sources-and-solutions-wastewater>
 
-1. Us Epa, O. W. (2013b). Where nutrient pollution occurs. https://www.epa.gov/nutrientpollution/where-nutrient-pollution-occurs
+1. Us Epa, O. W. (2013b). Where nutrient pollution occurs. <https://www.epa.gov/nutrientpollution/where-nutrient-pollution-occurs>
 
-1. Us Epa, O. W. (2023). Where combined sewer overflow outfalls are located. https://www.epa.gov/npdes/where-combined-sewer-overflow-outfalls-are-located
+1. Us Epa, O. W. (2023). Where combined sewer overflow outfalls are located. <https://www.epa.gov/npdes/where-combined-sewer-overflow-outfalls-are-located>
 
-1. Valayamkunnath, P., Barlage, M., Chen, F., Gochis, D. J., & Franz, K. J. (2020). Mapping of 30-meter resolution tile-drained croplands using a geospatial modeling approach. Scientific Data, 7(1), 1–10. https://doi.org/10.1038/s41597-020-00596-x
+1. Valayamkunnath, P., Barlage, M., Chen, F., Gochis, D. J., & Franz, K. J. (2020). Mapping of 30-meter resolution tile-drained croplands using a geospatial modeling approach. Scientific Data, 7(1), 1–10. <https://doi.org/10.1038/s41597-020-00596-x>
 
-1. Wear, S., Acuña, V., McDonald, R., Font, C. (2021, March). Sewage pollution, declining ecosystem health, and cross-sector collaboration. Sciencedirect.com. https://doi.org/10.1016/j.biocon.2021.109010
+1. Wear, S., Acuña, V., McDonald, R., Font, C. (2021, March). Sewage pollution, declining ecosystem health, and cross-sector collaboration. Sciencedirect.com. <https://doi.org/10.1016/j.biocon.2021.109010>

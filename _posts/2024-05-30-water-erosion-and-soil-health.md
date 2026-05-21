@@ -144,12 +144,12 @@ Soil conservation provides a strong base for addressing major health concerns, i
 
 ## References ##
 
-1. Al-Kaisi, M., & Hanna, M. (n.d.). Spring rain and soil erosion. *Iastate.edu*. Retrieved May 23, 2024, from https://crops.extension.iastate.edu/encyclopedia/spring-rain-and-soil-erosion
+1. Al-Kaisi, M., & Hanna, M. (n.d.). Spring rain and soil erosion. *Iastate.edu*. Retrieved May 23, 2024, from <https://crops.extension.iastate.edu/encyclopedia/spring-rain-and-soil-erosion>
 
-1. Begum, T. (n.d.). Soil degradation: the problems and how to fix them. *Nhm.ac.uk*. Retrieved May 23, 2024, from https://www.nhm.ac.uk/discover/soil-degradation.html
+1. Begum, T. (n.d.). Soil degradation: the problems and how to fix them. *Nhm.ac.uk*. Retrieved May 23, 2024, from <https://www.nhm.ac.uk/discover/soil-degradation.html>
 
 1. Blanco, H., & Lal, R. (2010). *Principles of soil conservation and management* (2008th ed.). Springer.
 
-1. Fernández-Raga, M., Palencia, C., Keesstra, S., Jordán, A., Fraile, R., Angulo-Martínez, M., & Cerdà, A. (2017). Splash erosion: A review with unanswered questions. *Earth-Science Reviews, 171*, 463–477. https://doi.org/10.1016/j.earscirev.2017.06.009
+1. Fernández-Raga, M., Palencia, C., Keesstra, S., Jordán, A., Fraile, R., Angulo-Martínez, M., & Cerdà, A. (2017). Splash erosion: A review with unanswered questions. *Earth-Science Reviews, 171*, 463–477. <https://doi.org/10.1016/j.earscirev.2017.06.009>
 
-1. Understanding Soil Compaction. (n.d.). *Rutgers.edu*. Retrieved May 23, 2024, from https://ocean.njaes.rutgers.edu/anr/understanding-soil-compaction/
+1. Understanding Soil Compaction. (n.d.). *Rutgers.edu*. Retrieved May 23, 2024, from <https://ocean.njaes.rutgers.edu/anr/understanding-soil-compaction/>

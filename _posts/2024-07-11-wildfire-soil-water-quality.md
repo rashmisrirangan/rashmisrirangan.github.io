@@ -95,30 +95,30 @@ Post-wildfire controls such as mulching, erosion barriers, and seeding can help 
 
 ## References ##
 
-1. Ahlstrom, S. J., Baldes, J., Bird, J., Brummer, T., Gill, P. S., Glenn, M., Harrison, N., Herstand, M., Hess, K., Hudlow, C., Jensen, M., Jordan, K., Lange, R., Mc Caughey, M., Park, N., Schroeder, M., Smith, H., Rew, S. S. D., Skurski, T., & Teaching Assistant. (2008). Forest Fire: examining the effects of recent fire on soil nutrients and microbes, and above and below ground vegetation. Montana.edu. https://landresources.montana.edu/archives/capstone/2008_Capstone.pdf
+1. Ahlstrom, S. J., Baldes, J., Bird, J., Brummer, T., Gill, P. S., Glenn, M., Harrison, N., Herstand, M., Hess, K., Hudlow, C., Jensen, M., Jordan, K., Lange, R., Mc Caughey, M., Park, N., Schroeder, M., Smith, H., Rew, S. S. D., Skurski, T., & Teaching Assistant. (2008). Forest Fire: examining the effects of recent fire on soil nutrients and microbes, and above and below ground vegetation. Montana.edu. <https://landresources.montana.edu/archives/capstone/2008_Capstone.pdf>
 
-1. Bylak, A., & Kukuła, K. (2022). Impact of fine-grained sediment on mountain stream macroinvertebrate communities: Forestry activities and beaver-induced sediment management. The Science of the Total Environment, 832(155079), 155079. https://doi.org/10.1016/j.scitotenv.2022.155079
+1. Bylak, A., & Kukuła, K. (2022). Impact of fine-grained sediment on mountain stream macroinvertebrate communities: Forestry activities and beaver-induced sediment management. The Science of the Total Environment, 832(155079), 155079. <https://doi.org/10.1016/j.scitotenv.2022.155079>
 
-1. Campos, I., & Abrantes, N. (2021). Forest fires as drivers of contamination of polycyclic aromatic hydrocarbons to the terrestrial and aquatic ecosystems. Current Opinion in Environmental Science & Health, 24(100293), 100293. https://doi.org/10.1016/j.coesh.2021.100293
+1. Campos, I., & Abrantes, N. (2021). Forest fires as drivers of contamination of polycyclic aromatic hydrocarbons to the terrestrial and aquatic ecosystems. Current Opinion in Environmental Science & Health, 24(100293), 100293. <https://doi.org/10.1016/j.coesh.2021.100293>
 
-1. Fire effect on soil. (n.d.). Nau.edu. Retrieved June 21, 2024, from https://www2.nau.edu/~gaud/bio300w/frsl.htm
+1. Fire effect on soil. (n.d.). Nau.edu. Retrieved June 21, 2024, from <https://www2.nau.edu/~gaud/bio300w/frsl.htm>
 
-1. Honda, M., & Suzuki, N. (2020). Toxicities of polycyclic aromatic hydrocarbons for aquatic animals. International Journal of Environmental Research and Public Health, 17(4), 1363. https://doi.org/10.3390/ijerph17041363
+1. Honda, M., & Suzuki, N. (2020). Toxicities of polycyclic aromatic hydrocarbons for aquatic animals. International Journal of Environmental Research and Public Health, 17(4), 1363. <https://doi.org/10.3390/ijerph17041363>
 
-1. How does wildfire impact wildlife and forests? (2022, October 7). Fws.gov. https://www.fws.gov/story/2022-10/how-does-wildfire-impact-wildlife-and-forests
+1. How does wildfire impact wildlife and forests? (2022, October 7). Fws.gov. <https://www.fws.gov/story/2022-10/how-does-wildfire-impact-wildlife-and-forests>
 
-1. Kieta, K. A., Owens, P. N., Petticrew, E. L., French, T. D., Koiter, A. J., & Rutherford, P. M. (2023). Polycyclic aromatic hydrocarbons in terrestrial and aquatic environments following wildfire: a review. Environmental Reviews, 31(1), 141–167. https://doi.org/10.1139/er-2022-0055
+1. Kieta, K. A., Owens, P. N., Petticrew, E. L., French, T. D., Koiter, A. J., & Rutherford, P. M. (2023). Polycyclic aromatic hydrocarbons in terrestrial and aquatic environments following wildfire: a review. Environmental Reviews, 31(1), 141–167. <https://doi.org/10.1139/er-2022-0055>
 
-1. Lopez, A. M., Pacheco, J. L., & Fendorf, S. (2023). Metal toxin threat in wildland fires determined by geology and fire severity. Nature Communications, 14(1). https://doi.org/10.1038/s41467-023-43101-9
+1. Lopez, A. M., Pacheco, J. L., & Fendorf, S. (2023). Metal toxin threat in wildland fires determined by geology and fire severity. Nature Communications, 14(1). <https://doi.org/10.1038/s41467-023-43101-9>
 
-1. Polycyclic aromatic hydrocarbons (PAHs). (n.d.). Cdc.gov. Retrieved June 25, 2024, from https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=121&toxid=25
+1. Polycyclic aromatic hydrocarbons (PAHs). (n.d.). Cdc.gov. Retrieved June 25, 2024, from <https://wwwn.cdc.gov/TSP/ToxFAQs/ToxFAQsDetails.aspx?faqid=121&toxid=25>
 
 1. Prepas, E., Serediak, N., Putz, G., & Smith, D. W. (2009). Fires. In Encyclopedia of Inland Waters (pp. 74–87). Elsevier.
 
-1. Roy, J. W., Grapentine, L., & Bickerton, G. (2018). Ecological effects from groundwater contaminated by volatile organic compounds on an urban stream’s benthic ecosystem. Limnologica, 68, 115–129. https://doi.org/10.1016/j.limno.2017.01.004
+1. Roy, J. W., Grapentine, L., & Bickerton, G. (2018). Ecological effects from groundwater contaminated by volatile organic compounds on an urban stream’s benthic ecosystem. Limnologica, 68, 115–129. <https://doi.org/10.1016/j.limno.2017.01.004>
 
-1. Sharma, D., Ahmed, A. and Lodhi, S. (2023, August). Chromium Toxicity In Aquatic Ecosystem: A Review. Ijcrt.org. https://ijcrt.org/papers/IJCRT2308064.pdf
+1. Sharma, D., Ahmed, A. and Lodhi, S. (2023, August). Chromium Toxicity In Aquatic Ecosystem: A Review. Ijcrt.org. <https://ijcrt.org/papers/IJCRT2308064.pdf>
 
-1. Us Epa, O. (2016). Effects of acid rain. https://www.epa.gov/acidrain/effects-acid-rain
+1. Us Epa, O. (2016). Effects of acid rain. <https://www.epa.gov/acidrain/effects-acid-rain>
 
-1. Young, K., Dohrenwend, K., McEttrick, M., Grover, H. (2023, June). Controlling Soil Erosion After Wildfire and Guiding Recovery in Southern Utah. Usu.edu. https://extension.usu.edu/ecorestore/research/soil-erosion-after-wildfire-guiding-recovery.pdf
+1. Young, K., Dohrenwend, K., McEttrick, M., Grover, H. (2023, June). Controlling Soil Erosion After Wildfire and Guiding Recovery in Southern Utah. Usu.edu. <https://extension.usu.edu/ecorestore/research/soil-erosion-after-wildfire-guiding-recovery.pdf>
