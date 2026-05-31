@@ -35,7 +35,7 @@ After the front matter, write your content using Markdown:
 
 Regular paragraph text goes here.
 
-**Bold text**, *italic text*, and [links](https://example.com) work as usual.
+**Bold text**, *italic text*, and [links](https://example.com) (or just <https://example.com> used commonly in references of blog posts) work as usual.
 
 ## Another Section
 
