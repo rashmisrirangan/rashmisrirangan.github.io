@@ -25,7 +25,7 @@ The concept of air flow should always dictate the design and purchase of a parti
 
 The amount of air flow depends on the air velocity and the cross-sectional area of the room or duct through which the air flows. Air flow can be determined using the following equation:
 
-![Equation](/assets/images/ventilation/2.jpg "Equation")
+![Equation](/assets/images/ventilation/2.png "Equation")
 
 For example, suppose a rectangular duct has a width of 0.25ft and a length of 10ft with air velocity stands at 1000 fpm. The air flow would be 1000 x 0.25 x 10, which equals 2500cfm.
 
@@ -69,7 +69,7 @@ External hoods can include slot hoods, capturing hoods or canopy hoods like the 
 
 Both types of hoods require a certain amount of capture velocity. Capture velocity refers to the minimum hood-induced air velocity necessary to convey the contaminant into the hood. Capture velocity can be calculated using the following equation:
 
-![](assets/images/ventilation/7.png)
+![Another Equation](assets/images/ventilation/7.png "Another equation")
 
 As the equation portrays, capture velocity and existing air flow are directly proportional. If a source releases a contaminant with a higher air flow, then the capture velocity also needs to be higher in order to overcome opposing air currents and transport the contaminant into the ventilation system.
 
