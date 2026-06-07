@@ -31,7 +31,7 @@ For example, suppose a rectangular duct has a width of 0.25ft and a length of 10
 
 Air flows when there is a pressure difference between two locations, moving from high pressure to low pressure. Air exerts static pressure at rest and velocity pressure during movement. When a ventilation system sucks air in, the static pressure increases inside a given space (eg. duct or room) and becomes positive. As air leaves the system, then the static pressure becomes negative inside the space. A negative pressure room keeps contaminants in and prevents them from escaping, like the biohazard containment rooms in hospitals or asbestos abatement chambers.
 
-![Quarantine rooms](assets/images/ventilation/3.jpg "Quarantine Rooms")
+![Quarantine rooms](/assets/images/ventilation/3.jpg "Quarantine Rooms")
 *Retrieved from: <https://airinnovations.com/blog/create-negative-pressure-room/>*
 
 Velocity pressure is always positive. Together, static pressure (SP) and velocity pressure (VP) make up the total pressure (TP) that creates air movement. In other words, `SP + VP = TP`.
@@ -54,7 +54,7 @@ An LEV system consists of five main components:
 4. **Fan:** Pushes air through the ducts and out the exhaust stack.
 5. **Exhaust stack:** Releases cleaned air out of the system.
 
-![Ventilation components](assets/images/ventilation/4.png "Ventilation components")
+![Ventilation components](/assets/images/ventilation/4.png "Ventilation components")
 *Retrieved from: <https://safetyculture.com/topics/local-exhaust-ventilation>*
 
 ### The Hood
@@ -63,17 +63,17 @@ The hood acts as the gateway for air to enter a ventilation system. Depending on
 
 Enclosing hoods such as lab hoods, glove boxes or paint booths completely encase the contaminant source and ensure maximum contaminant capture.
 
-![An enclosed glove box with an LEV system](assets/images/ventilation/5.jpg "An enclosed glove box with an LEV system")
+![An enclosed glove box with an LEV system](/assets/images/ventilation/5.jpg "An enclosed glove box with an LEV system")
 *Retrieved from: <https://www.terrauniversal.com/glove-boxes-isolators.php>*
 
 External hoods can include slot hoods, capturing hoods or canopy hoods like the ones seen inside residential or commercial kitchens. External hoods can also be fitted with curtains or partial enclosures to help funnel air into the ventilation system.
 
-![Canopy hood](assets/images/ventilation/6.jpg "Canopy hood")
+![Canopy hood](/assets/images/ventilation/6.jpg "Canopy hood")
 *Retrieved from: <https://www.prolinerangehoods.com/blog/range-hoods-that-vent-outside/>*
 
 Both types of hoods require a certain amount of capture velocity. Capture velocity refers to the minimum hood-induced air velocity necessary to convey the contaminant into the hood. Capture velocity can be calculated using the following equation:
 
-![Another Equation](assets/images/ventilation/7.png "Another equation")
+![Another Equation](/assets/images/ventilation/7.png "Another equation")
 
 As the equation portrays, capture velocity and existing air flow are directly proportional. If a source releases a contaminant with a higher air flow, then the capture velocity also needs to be higher in order to overcome opposing air currents and transport the contaminant into the ventilation system.
 
@@ -87,7 +87,7 @@ Velocities depend on the type of particulate flowing through the ducts. For exam
 
 Avoid duct designs that impede air movement and increase pressure loss, including excessive bends, longer or narrower ducts, ribbed materials or sharp corners.
 
-![Duct for prevention](assets/images/ventilation/8.png "Duct for prevention")
+![Duct for prevention](/assets/images/ventilation/8.png "Duct for prevention")
 *Retrieved from: <https://www.ccohs.ca/oshanswers/prevention/ventilation/ducts.html>*
 
 ### Air Cleaning Devices
@@ -98,7 +98,7 @@ Air can be cleaned using a variety of devices including mechanical separators, w
 
 Mechanical separators include cyclone separators and impingement separators. Cyclones move air in a rotational fashion, causing the particles to hit the sides and settle out. With impingement separators, particulates strike a series of baffles as cleaned air flows through. Mechanical separators normally capture larger dust particles (more than 10 microns).
 
-![Cyclone separator](assets/images/ventilation/9.webp "Cyclone separator")
+![Cyclone separator](/assets/images/ventilation/9.webp "Cyclone separator")
 *Retrieved from: <https://www.processingmagazine.com/material-handling-dry-wet/powder-bulk-solids/article/15587677/cyclone-design-and-specification-considerations>*
 
 Wet collectors use a liquid to collect contaminants and have them accumulate. Examples include scrubbers or spray chambers. These devices can be used in higher temperature settings and remove smaller particles (more than 5 microns).
@@ -115,7 +115,7 @@ Fans move air around the LEV system. LEV systems may use either axial fans or ce
 
 Fans serve as one of the final steps to drive cleaned air out of the exhaust and help maintain LEV function.
 
-![Fans](assets/images/ventilation/10.jpg "Fans")
+![Fans](/assets/images/ventilation/10.jpg "Fans")
 *Retrieved from: <https://www.hsewebsite.com/industrial-ventilation/>*
 
 ## DILUTION VENTILATION
@@ -124,12 +124,12 @@ Dilution ventilation is typically not recommended for toxic contaminants. Diluti
 
 Dilution systems work best when a fan pushes air from above or behind an employee, over the source of contaminants and towards the exhaust. This way, most of the contaminant will go past and away from the employee. One must ensure the cleanliness of the outdoor air when using dilution ventilation.
 
-![Dilution ventilation](assets/images/ventilation/11.gif "Dilution ventilation")
+![Dilution ventilation](/assets/images/ventilation/11.gif "Dilution ventilation")
 *Retrieved from: <https://www.ccohs.ca/oshanswers/prevention/ventilation/introduction.html/>*
 
 Dilution depends on air flow, the mixing factor of a room and the contaminant’s molecular weight, evaporation rate and specific gravity. The “mixing factor” refers to the air exchange rate that occurs at a specific point in a room in order to dilute a contaminant. Serious hazards should have higher mixing factors. The required air flow in a dilution system is calculated using the following equation:
 
-![Third Equation](assets/images/ventilation/12.png "Third Equation")
+![Third Equation](/assets/images/ventilation/12.png "Third Equation")
 
 Because it uses a large amount of air and energy, dilution ventilation does not provide the most sustainable means of ventilating a contaminated space. Dilution should only be used under the following circumstances:
 
@@ -145,7 +145,7 @@ Many instruments can be used to assess air flow, air velocity and air pressure. 
 1. **Anemometers:** These measure air velocity using an impeller or a vane that moves in the air. The faster the blades move, the more the velocity.
 1. **Pitot Tubes:** This device is inserted into an airstream to measure static, velocity and total pressure.
 
-![Pitot tube](assets/images/ventilation/13.webp "Pitot tube")
+![Pitot tube](/assets/images/ventilation/13.webp "Pitot tube")
 *Retrieved from: <https://www.youtube.com/watch?app=desktop&v=axtZpQ-8A0o&ab_channel=OXYL8Ltd/>*
 
 ## AIR QUALITY TESTING
@@ -162,7 +162,7 @@ Like every machine, a ventilation system needs a preventative maintenance proces
 
 Ventilation systems should allow for easy access to perform routine maintenance.
 
-![Guy fixing fan](assets/images/ventilation/14.jpg "Guy fixing fan")
+![Guy fixing fan](/assets/images/ventilation/14.jpg "Guy fixing fan")
 *Retrieved from: <https://www.fdscontracting.co.uk/news/smoke-ventilation-system-maintenancesmoke-ventilation-system-maintenance-fds-service/>*
 
 Inspections help ensure proper functioning of ventilation systems. Any damages can be reported and repaired before encountering malfunctions or safety-related incidents.
