@@ -1,1 +1,1 @@
-This is my personal blog - live at TBD
+This is my personal blog - live at <safetysenses.com>

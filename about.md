@@ -14,4 +14,4 @@ I have an M.S. in Natural Resources and Environmental Sciences from the Universi
 
 Outside of EHS, I also enjoy photography and hiking.
 
-You can reach me on [LinkedIn](https://www.linkedin.com/in/rashmi-sri) or by email at TBD.
+You can reach me on [LinkedIn](https://www.linkedin.com/in/rashmi-sri) or by email at [firstName][at]safetysenses.com.
