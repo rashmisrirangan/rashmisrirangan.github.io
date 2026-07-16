@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wildfire Smoke"
-date: 2024-05-20
+date: 2023-05-20
 categories: [environment, wildfire, smoke]
 tags: [smoke, environment]
 ---

@@ -1,1 +1,1 @@
-This is my personal blog - live at <safetysenses.com>
+This is my personal blog - live at <https://safetysenses.com/>
